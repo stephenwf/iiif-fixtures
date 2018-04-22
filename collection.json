@@ -32,6 +32,26 @@
       ]
     }
   ],
+  "seeAlso": {
+    "@id": "http://iiif.com/see-also.json",
+    "label": "Example See also link"
+  },
+  "service": {
+    "@id": "http://iiif.com/service.json",
+    "label": "Example service"
+  },
+  "related": {
+    "@id": "http://iiif.com/related.json",
+    "label": "Example realted link"
+  },
+  "rendering": {
+    "@id": "http://iiif.com/rendering.json",
+    "label": "Example rendering"
+  },
+  "within": {
+    "@id": "http://iiif.com/within.json",
+    "label": "Example within"
+  },
   "logo": "https://stephen.wf/step-hen.png",
   "license": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
   "attribution": [

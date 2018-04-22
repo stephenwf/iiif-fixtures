@@ -32,7 +32,7 @@
       ]
     }
   ],
-  "logo": "http://example.org/logos/institution1.jpg",
+  "logo": "https://stephen.wf/step-hen.png",
   "license": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
   "attribution": [
     {
@@ -40,5 +40,5 @@
       "@language": "en"
     }
   ],
-  "thumbnail": "http://example.org/images/book1-page1/full/80,100/0/default.jpg"
+  "thumbnail": "https://stephen.wf/step-hen.png"
 }
